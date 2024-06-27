@@ -1,0 +1,15 @@
+{
+  "name": "sass-watch-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:scss": "sass in.scss out.css",
+    "build:scss:watch": "npm run build:scss -- --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.77.6"
+  }
+}
