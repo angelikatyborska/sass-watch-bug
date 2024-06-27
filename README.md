@@ -24,4 +24,4 @@ If I start sass in watch mode while on the `apple` branch and then checkout the 
 
 This error doesn't make sense because the underlined line should no longer exist after checking out the `main` branch. If you stop the sass process and start it again, or if you make any other change to the watched files, the next build will succeed.
 
-Please see the [screen recording](./screen-recording.mov) that demonstrates this bug.
+Please see the [screen recording](./screen-recording.mp4) that demonstrates this bug.
